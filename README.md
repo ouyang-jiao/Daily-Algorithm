@@ -15,8 +15,10 @@ This repository serves as a record of my daily LeetCode practice. It includes C 
 | 2026-03-15 | 删除链表的倒数第N个节点            |      中等        |  双指针 栈 链表
 | 2026-03-15 | 删除排序链表中的重复元素           |      简单        |  链表
 | 2026-03-16 | 位1的个数                        |      简单        |  位运算 分治
+| 2026-03-18 | 找出字符串中第一个匹配项的下标     |      简单         | 字符串 双指针
 
 🎯 Goals
 Keep practicing one problem per day, and gradually cover core algorithms: array, string, linked list, hash table, two pointers, greedy algorithm, etc.
 Accumulate high-quality code and problem-solving ideas to build a presentable algorithm portfolio.
 Lay a solid foundation for future studies and job interviews.
+If you have excellent solutions for algorithm problems, feel free to share and exchange ideas with me.

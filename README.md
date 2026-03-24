@@ -16,7 +16,8 @@ This repository serves as a record of my daily LeetCode practice. It includes C 
 | 2026-03-15 | 删除排序链表中的重复元素           |      简单        |  链表
 | 2026-03-16 | 位1的个数                        |      简单        |  位运算 分治
 | 2026-03-18 | 找出字符串中第一个匹配项的下标     |      简单         | 字符串 双指针
-| 2026-03019 | 加一                             |      简单        |  数组 数学
+| 2026-03-19 | 加一                             |      简单        |  数组 数学
+| 2026-03-24 | 无重复字符的最长子串              |       中等       |  哈希表 字符串 滑动窗口
 
 🎯 Goals
 Keep practicing one problem per day, and gradually cover core algorithms: array, string, linked list, hash table, two pointers, greedy algorithm, etc.
